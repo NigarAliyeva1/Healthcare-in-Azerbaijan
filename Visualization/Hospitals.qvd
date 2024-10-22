@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ <QvdTableHeader>
+   <QvBuildNo>50679</QvBuildNo>
+   <CreatorDoc>C:\Users\nigar\OneDrive\Documents\Qlik\Sense\Apps\final.qvf</CreatorDoc>
+   <CreateUtcTime>2024-09-28 14:00:15</CreateUtcTime>
+   <SourceCreateUtcTime></SourceCreateUtcTime>
+   <SourceFileUtcTime></SourceFileUtcTime>
+   <SourceFileSize>-1</SourceFileSize>
+   <StaleUtcTime></StaleUtcTime>
+   <TableName>HOSPITALS</TableName>
+   <Fields>
+     <QvdFieldHeader>
+       <FieldName>HOSPITAL_ID</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>150</NoOfSymbols>
+       <Offset>0</Offset>
+       <Length>750</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>HOSPITAL_NAME</FieldName>
+       <BitOffset>8</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>150</NoOfSymbols>
+       <Offset>750</Offset>
+       <Length>4524</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>HOSPITAL_TYPE</FieldName>
+       <BitOffset>76</BitOffset>
+       <BitWidth>1</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>5274</Offset>
+       <Length>17</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ADDRESS</FieldName>
+       <BitOffset>16</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>150</NoOfSymbols>
+       <Offset>5291</Offset>
+       <Length>4435</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>REGION</FieldName>
+       <BitOffset>52</BitOffset>
+       <BitWidth>6</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>56</NoOfSymbols>
+       <Offset>9726</Offset>
+       <Length>504</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>REGION_ID</FieldName>
+       <BitOffset>58</BitOffset>
+       <BitWidth>6</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>56</NoOfSymbols>
+       <Offset>10230</Offset>
+       <Length>280</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>PHONE_NUMBER</FieldName>
+       <BitOffset>24</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>150</NoOfSymbols>
+       <Offset>10510</Offset>
+       <Length>2850</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>NUMBER_OF_BEDS</FieldName>
+       <BitOffset>32</BitOffset>
+       <BitWidth>7</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>126</NoOfSymbols>
+       <Offset>13360</Offset>
+       <Length>630</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>NUMBER_OF_DEPARTMENTS</FieldName>
+       <BitOffset>42</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>21</NoOfSymbols>
+       <Offset>13990</Offset>
+       <Length>105</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>SPECIALTIES</FieldName>
+       <BitOffset>39</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>8</NoOfSymbols>
+       <Offset>14095</Offset>
+       <Length>239</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>OPERATING_HOURS</FieldName>
+       <BitOffset>72</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>4</NoOfSymbols>
+       <Offset>14334</Offset>
+       <Length>60</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>EMERGENCY_SERVICES</FieldName>
+       <BitOffset>77</BitOffset>
+       <BitWidth>3</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>2</NoOfSymbols>
+       <Offset>14394</Offset>
+       <Length>9</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>RATINGS</FieldName>
+       <BitOffset>47</BitOffset>
+       <BitWidth>5</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>21</NoOfSymbols>
+       <Offset>14403</Offset>
+       <Length>177</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>ACCREDITATION</FieldName>
+       <BitOffset>74</BitOffset>
+       <BitWidth>2</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>3</NoOfSymbols>
+       <Offset>14580</Offset>
+       <Length>66</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>LAST_RENOVATION_DATE</FieldName>
+       <BitOffset>64</BitOffset>
+       <BitWidth>8</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>REAL</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec>.</Dec>
+         <Thou>,</Thou>
+       </NumberFormat>
+       <NoOfSymbols>6</NoOfSymbols>
+       <Offset>14646</Offset>
+       <Length>30</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$numeric</String>
+         <String>$integer</String>
+       </Tags>
+     </QvdFieldHeader>
+     <QvdFieldHeader>
+       <FieldName>MANDATORY_HEALTH_INSURANCE</FieldName>
+       <BitOffset>0</BitOffset>
+       <BitWidth>0</BitWidth>
+       <Bias>0</Bias>
+       <NumberFormat>
+         <Type>ASCII</Type>
+         <nDec>0</nDec>
+         <UseThou>0</UseThou>
+         <Fmt></Fmt>
+         <Dec></Dec>
+         <Thou></Thou>
+       </NumberFormat>
+       <NoOfSymbols>1</NoOfSymbols>
+       <Offset>14676</Offset>
+       <Length>4</Length>
+       <Comment></Comment>
+       <Tags>
+         <String>$text</String>
+         <String>$ascii</String>
+       </Tags>
+     </QvdFieldHeader>
+   </Fields>
+   <Compression></Compression>
+   <RecordByteSize>10</RecordByteSize>
+   <NoOfRecords>150</NoOfRecords>
+   <Offset>14680</Offset>
+   <Length>1500</Length>
+   <Lineage></Lineage>
+   <Comment></Comment>
+   <EncryptionInfo></EncryptionInfo>
+   <TableTags></TableTags>
+   <ProfilingData></ProfilingData>
+ </QvdTableHeader>
+                         	   
+                                                                      !   "   #   $   %   &   '   (   )   *   +   ,   -   .   /   0   1   2   3   4   5   6   7   8   9   :   ;   <   =   >   ?   @   A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z   [   \   ]   ^   _   `   a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z   {   |   }   ~      Ä   Å   Ç   É   Ñ   Ö   Ü   á   à   â   ä   ã   å   ç   é   è   ê   ë   í   ì   î   ï   ñ   Merkezi Klinika Nerimanov Tibb Merkezi Baki Saglamliq Merkezi Respublika Neyrocerrahiyye Xestexanasi Istanbul NS Klinika Baki Urek Merkezi Leyla Medical Center Bona Dea Beynelxalq Hospital MedEra Hospital Modern Hospital Yeni Klinika Ege Hospital Azerbaijan Medical University Clinic Respublika Diaqnostika Merkezi Zeferan Hospital Avrasiya Hospital Avrasiya Klinika Kaspian Hospital Baku Medical Plaza Xetai Tibb Merkezi Respublika Usaq Klinik Xestexanasi Eliqulu Quliyev adina 5 sayli Seher Klinik Xestexanasi MediClub Hospital Azersigorta Hospital Nefroloji Xestexana Respublika Talassemiya Merkezi Azerbaycan Onkoloji Merkezi Qarayev adina Usaq Xestexanasi Azerbaycan Travmatologiya ve Ortopediya Merkezi Respublika Cerrahiyye Merkezi Baku Medical Center Oksigen Klinikasi Funda Hospital Xezer Rayon Merkezi Xestexanasi Tusi Hospital Baku International Hospital Gence Beynelxalq Xestexanasi Sumqayit Seher Merkezi Xestexanasi Lenkeran Merkezi Xestexanasi Seki Merkezi Xestexanasi Respublika Klinik Xestexanasi Rey Tibb Merkezi Respublika Yaniq Merkezi Baku Clinic Caspian International Hospital 1 sayli Seher Klinik Xestexanasi 2 sayli Seher Klinik Xestexanasi Serq Hospital Respublika Usaq Yoluxucu Xestelikler Xestexanasi Respublika Perinatal Merkezi Respublika Klinik Tibbi Reabilitasiya Merkezi Cinara Tibb Merkezi Medi Lux Klinika International Medical Center EMC Hospital Turk - Amerikan Tibb Merkezi Saglam Aile Tibb Merkezi Inci Hospital City Hospital Respublika Kardiologiya Merkezi Respublika Psixiatriya Xestexanasi Respublika Endokrinologiya Merkezi Baki Tecili Tibbi Yardim Stansiyasi 8 sayli Usaq Klinik Xestexanasi Dogum Evi 3 sayli Seher Klinik Xestexanasi Yeni Heyat Hospital Atesgah Klinika AzerMed Hospital Xetai Tecili Yardim Xestexanasi Respublika Agciyer Xestelikleri Xestexanasi Respublika Qan Banki Avrasiya Hospital 2 Fuzuli Rayon Merkezi Xestexanasi Qebele Merkezi Rayon Xestexanasi Goygol Rayon Merkezi Xestexanasi Mingecevir Merkezi Xestexanasi Quba Rayon Merkezi Xestexanasi Zaqatala Rayon Merkezi Xestexanasi Balaken Rayon Merkezi Xestexanasi Astara Rayon Merkezi Xestexanasi 4 sayli Seher Klinik Xestexanasi Ebdurrehim bey Haqverdiyev adina 6 sayli Seher Klinik Xestexanasi 7 sayli Usaq Klinik Xestexanasi Respublika Xususi Xestelikler Xestexanasi Respublika Narkoloji Merkezi Qaradag Rayon Merkezi Xestexanasi Sabuncu Tibb Merkezi Suraxani Rayon Merkezi Xestexanasi Sebail Rayon Merkezi Xestexanasi Bineqedi Rayon Merkezi Xestexanasi Nizami Rayon Merkezi Xestexanasi 5 sayli Usaq Klinik Xestexanasi Medicina Hospital Baku Oxford Medical Hospital AzerKardio Tibb Merkezi AzerSuqra Tibb Merkezi Nobel Tibb Merkezi Qara Qarayev adina 2 sayli Usaq Xestexanasi Respublika Cerrahi Transplantologiya Merkezi Hesen Eliyev adina Klinik Xestexana Sems Tibb Merkezi Azerbaycan Dovlet Demiryolu Xestexanasi Baku Children√¢‚Ç¨‚Ñ¢s Hospital Avrasiya Hospital 3 Respublika Agciyer Xestelikleri Merkezi Respublika Hematologiya ve Transfuziologiya Merkezi Baki Diabet Merkezi Baki Nevrologiya Xestexanasi Baki Usaq Diabet Merkezi Azerbaycan Uroloji Merkezi Respublika Endoskopiya Merkezi Xezer Beynelxalq Saglamliq Merkezi Nargis Klinikasi Respublika Usaq Goz Xestelikleri Xestexanasi Respublika Sumuk Iltihabi Xestelikleri Xestexanasi Seki Usaq Xestexanasi Agdam Rayon Merkezi Xestexanasi Berde Rayon Merkezi Xestexanasi Susa Rayon Merkezi Xestexanasi Xankendi Rayon Merkezi Xestexanasi Qobustan Rayon Merkezi Xestexanasi Xacmaz Rayon Merkezi Xestexanasi Ismayilli Rayon Merkezi Xestexanasi Agsu Rayon Merkezi Xestexanasi Qusar Rayon Merkezi Xestexanasi Oguz Rayon Merkezi Xestexanasi Yevlax Rayon Merkezi Xestexanasi Qax Rayon Merkezi Xestexanasi Cebrayil Rayon Merkezi Xestexanasi Gedebey Rayon Merkezi Xestexanasi Kurdemir Rayon Merkezi Xestexanasi Haciqabul Rayon Merkezi Xestexanasi Sederek Tibb Merkezi Ordubad Rayon Merkezi Xestexanasi Kengerli Rayon Merkezi Xestexanasi Naxcivan Merkezi Rayon Xestexanasi Sahbuz Rayon Merkezi Xestexanasi Babek Rayon Merkezi Xestexanasi Neftcala Rayon Merkezi Xestexanasi Salyan Rayon Merkezi Xestexanasi Celilabad Rayon Merkezi Xestexanasi Masalli Rayon Merkezi Xestexanasi Bilesuvar Rayon Merkezi Xestexanasi Yardimli Rayon Merkezi Xestexanasi Lerik Rayon Merkezi Xestexanasi Zerdab Rayon Merkezi Xestexanasi Sabirabad Rayon Merkezi Xestexanasi Saatli Rayon Merkezi Xestexanasi Semkir Rayon Merkezi Xestexanasi Private Public Akademik Hesen Eliyev kuc., 76 Molla Cume kuc., 5 Mehemmed Hadi kuc., 134 Akademik M. Topcubasov kuc., 14 Semsi Bedelbeyli kuc., 96 Mireli Qasqay kuc., 100 Babek prospekti, 53 Ataturk prospekti, 85 Xetai prospekti, 38 Semed Vurgun kuc., 99 Zerife Eliyeva kuc., 65 Ceyhun Hacibeyli kuc., 117 Bakixanov kuc., 23 Mikayil Musfiq kuc., 46 Bakixanov qesebesi, Naxcivani kuc., 57 Enver Qasimzade kuc., 60 Merdanov Qardaslari kuc., 78 Nesib bey Yusifbeyli kuc., 25 Ismayil Qutqasinli kuc., 45 Babek prospekti, 12 Tbilisi prospekti, 26 Fuzuli kuc., 58 Salyan sossesi, 32 Nerimanov rayonu, Tebriz kuc., 10 Xocali prospekti, 48 Mircelal kuc., 22 Elcin Eliyev kuc., 3 Hesen bey Zerdabi kuc., 57 Ayna Sultanova kuc., 19 Tbilisi prospekti, 16 Ataturk prospekti, 83 Semsi Rehimov kuc., 17 Huseyn Cavid prospekti, 49 Merdekan qesebesi, 12 Murtuza Muxtarov kuc., 80 28 May kuc., 15 Gence seheri, Ataturk prospekti, 9 Sumqayit seheri, 10 Lenkeran seheri, Xezer kuc., 28 Seki seheri, Elvan kuc., 18 Semed Vurgun kuc., 12 Istiqlaliyyet kuc., 10 Mir Celal kuc., 27 Resid Behbudov kuc., 39 Ziya Bunyadov prospekti, 1965- ci mehelle Ehmed Recebli kuc., 8 Nizami rayonu, Qara Qarayev prospekti, 79 Mireli Qasqay kuc., 122 Fuzuli kuc., 62 Yeni Yasamal, 3- cu qesebe, Qasimbeyov kuc. Sabuncu rayonu, Bakixanov qesebesi Badamdar qesebesi, 2- ci massiv, ev 35 Insaatcilar prospekti, 18 Ceyhun Hacibeyli kuc., 85 Insaatcilar prospekti, 22 Cefer Cabbarli kuc., 26 Nerimanov rayonu, Hesen Eliyev kuc., 4 Nesimi rayonu, Mireli Qasqay kuc., 55 Tbilisi prospekti, 147 Mikayil Musfiq kuc., 38 Mastaga qesebesi Elekber Quliyev kuc., 33 Salyan sossesi, 6 Yasamal rayonu, A. Qasimzade kuc. Serq bazari, Bineqedi rayonu Qara Qarayev prospekti, 85 Zerife Eliyeva kuc., 19 Ziya Bunyadov prospekti, 5 Ehmed Recebli kuc., 10 Xetai rayonu, Mehemmed Hadi kuc. Bineqedi qesebesi, 4 - cu mkr Nerimanov rayonu, Tebriz kuc., 26 Babek prospekti, 60 Fuzuli seheri, 12- ci kuce Qebele seheri, Heyder Eliyev prospekti, 39 Goygol seheri, 12 Mingecevir seheri, Naxcivan kuc. Quba seheri, Heyder Eliyev prospekti Zaqatala seheri, Nizami kuc. Balaken seheri, 5- ci kuce Astara seheri, Nesimi kuc., 23 Nesimi rayonu, Semed Vurgun kuc., 187 Cavadxan kuc., 2 Neftciler prospekti, 93 Nizami rayonu, Heyder Eliyev prospekti, 109 Suraxani rayonu, M. Ezizbeyov kuc., 1 Lokbatan qesebesi, Qardasliq kuc., 25 Sabuncu qesebesi, M. Hesenov kuc., 19 Suraxani qesebesi, Eli Memmedov kuc., 22 Badamdar qesebesi, 3- cu yasayis massivi Bineqedi qesebesi, Bileceri sossesi, 8 Nizami rayonu, Qara Qarayev prospekti, 90 Bineqedi rayonu, Ziya Bunyadov prospekti, 33 Semed Vurgun kuc., 34 Ataturk prospekti, 56 Azadliq prospekti, 105 Dernegul qesebesi, Nizami Nerimanov kuc., 7 Nobel prospekti, 158 Yasamal rayonu, Abbas Sehhet kuc., 4 Tbilisi prospekti, 123 Tbilisi prospekti, 95 Azadliq prospekti, 92 Eziz Eliyev kuc., 3 Tbilisi prospekti, 111 Bineqedi rayonu, Ataturk prospekti, 25 Buzovna qesebesi, Simal kuc., 30 Ziya Bunyadov prospekti, 12 Fuzuli kuc., 30 Azadliq prospekti, 115 Bakixanov qesebesi, Heyder Eliyev prospekti, 19 Zerife Eliyeva kuc., 56 Babek prospekti, 70 Xetai rayonu, Neftciler prospekti, 15 28 May kuc., 14 Serifzade kuc., 112 Bilgeh qesebesi, Merkezi kuc., 2 Seki seheri, Neriman Nerimanov kuc., 25 Agdam seheri, 15 Berde seheri, Heyder Eliyev prospekti Susa seheri, 10 Xankendi seheri, Nizami kuc. Qobustan seheri, Emirzeynal kuc. Xacmaz seheri, E. Huseynov kuc. Ismayilli seheri, Heyder Eliyev prospekti Agsu seheri, Ziya Bunyadov kuc. Qusar seheri, Heyder Eliyev prospekti Oguz seheri, 5 Yevlax seheri, Hezi Aslanov kuc. Qax seheri, Heyder Eliyev prospekti Cebrayil seheri, Merkezi kuce Gedebey seheri, Merkezi kuce Kurdemir seheri, Heyder Eliyev kuc. Haciqabul seheri, Qurtulus kuc. Sederek qesebesi, Merkezi kuce Ordubad seheri, Heyder Eliyev kuc. Kengerli qesebesi, 12 Naxcivan seheri, Heyder Eliyev prospekti Sahbuz seheri, Merkezi kuce Babek qesebesi, Heyder Eliyev kuc. Neftcala seheri, Merkezi kuce Salyan seheri, Heyder Eliyev prospekti Celilabad seheri, Nizami kuc. Masalli seheri, Heyder Eliyev kuc. Bilesuvar seheri, Merkezi kuce Yardimli seheri, Merkezi kuce Lerik seheri, Heyder Eliyev prospekti Zerdab seheri, Merkezi kuce Sabirabad seheri, Semed Vurgun kuc. Saatli seheri, Heyder Eliyev kuc. Semkir seheri, Merkezi kuce Narimanov Khatai Nasimi Sabail Yasamal Sabunchu Binagadi Garadagh Khazar Ganja Sumgayit Lankaran Sheki Nizami Fuzuli Gabala Goygol Mingachevir Guba Zagatala Balakan Astara Surakhani Aghdam Barda Shusha Khankendi Gobustan Khachmaz Ismayilli Agsu Gusar Oghuz Yevlakh Gakh Jabrayil Gadabay Kurdamir Hajigabul Sadarak Ordubad Kangarli Nakhchivan Shahbuz Babek Neftchala Salyan Jalilabad Masalli Bilasuvar Yardimli Lerik Zardab Sabirabad Saatli Shamkir          
+      	                  9   K      '   I       <   2   L   G   6      $   &   *   "      1         3   J   A   H   M   -   ?   T                     U   V   7   :   S   ;   8   B   F   E   /   +994 12 306 90 34 +994 12 950 96 84 +994 12 558 33 92 +994 12 898 23 42 +994 12 145 98 60 +994 12 850 23 95 +994 12 899 29 66 +994 12 637 12 85 +994 12 640 54 68 +994 12 569 17 30 +994 12 765 34 27 +994 12 303 77 80 +994 12 321 75 62 +994 12 708 48 73 +994 12 814 15 65 +994 12 497 45 61 +994 12 330 89 80 +994 12 990 48 33 +994 12 958 62 79 +994 12 396 41 40 +994 12 796 83 64 +994 12 670 14 10 +994 12 489 83 17 +994 12 276 54 34 +994 12 592 69 31 +994 12 458 21 60 +994 12 692 26 66 +994 12 361 31 20 +994 12 267 66 30 +994 12 510 25 66 +994 12 164 32 17 +994 12 983 71 18 +994 12 748 90 99 +994 12 960 68 77 +994 12 740 67 78 +994 12 194 19 42 +994 12 864 41 69 +994 12 310 14 85 +994 12 232 79 22 +994 12 127 74 21 +994 12 733 46 42 +994 12 595 78 65 +994 12 819 55 61 +994 12 565 86 98 +994 12 491 44 32 +994 12 337 52 95 +994 12 528 47 35 +994 12 327 64 12 +994 12 849 67 75 +994 12 610 42 79 +994 12 133 43 63 +994 12 184 27 18 +994 12 605 93 79 +994 12 840 91 86 +994 12 677 92 81 +994 12 646 82 63 +994 12 962 76 97 +994 12 278 96 94 +994 12 343 50 83 +994 12 591 71 75 +994 12 141 62 11 +994 12 232 50 27 +994 12 428 76 77 +994 12 986 39 24 +994 12 776 44 31 +994 12 934 64 67 +994 12 533 77 42 +994 12 804 92 89 +994 12 298 99 82 +994 12 659 20 15 +994 12 399 93 64 +994 12 895 91 44 +994 12 884 47 33 +994 12 731 51 67 +994 12 964 65 14 +994 12 557 98 17 +994 12 745 76 95 +994 12 771 94 51 +994 12 151 85 73 +994 12 238 59 26 +994 12 165 86 93 +994 12 606 22 74 +994 12 206 71 61 +994 12 137 27 74 +994 12 565 17 18 +994 12 465 30 23 +994 12 996 13 19 +994 12 186 51 82 +994 12 629 98 19 +994 12 938 46 95 +994 12 158 34 15 +994 12 269 93 54 +994 12 722 17 22 +994 12 748 43 18 +994 12 398 25 74 +994 12 462 89 93 +994 12 618 46 47 +994 12 325 91 53 +994 12 260 95 26 +994 12 887 63 88 +994 12 444 77 43 +994 12 541 53 37 +994 12 752 54 15 +994 12 418 26 76 +994 12 692 43 90 +994 12 181 71 89 +994 12 710 93 72 +994 12 315 83 55 +994 12 169 24 95 +994 12 837 72 76 +994 12 512 73 21 +994 12 635 16 99 +994 12 573 81 91 +994 12 138 99 70 +994 12 326 44 47 +994 12 643 60 29 +994 12 135 11 78 +994 12 819 62 32 +994 12 232 80 30 +994 12 910 69 66 +994 12 590 46 37 +994 12 144 43 10 +994 12 206 55 93 +994 12 609 59 47 +994 12 601 73 56 +994 12 835 17 96 +994 12 990 11 78 +994 12 287 11 33 +994 12 411 17 38 +994 12 405 67 99 +994 12 388 19 90 +994 12 812 58 65 +994 12 128 26 61 +994 12 512 66 71 +994 12 281 86 95 +994 12 715 50 70 +994 12 404 38 58 +994 12 171 20 92 +994 12 474 79 96 +994 12 784 10 62 +994 12 509 85 47 +994 12 778 24 42 +994 12 742 15 51 +994 12 436 70 22 +994 12 786 46 30 +994 12 765 68 85 +994 12 175 85 18 +994 12 109 23 68 +994 12 348 55 10 +994 12 546 69 82 Å   π   1  Ô   ◊  ‰   Ê  {  X  f  [  ã   >  7  T   ’  S   k   Z  [   k  5  õ   »  W  ,  ï   ∆  é   ¥   Ò   $  …  ;   Í      ä  œ  D   ∆   y  v  ¢     Ú  ≈   |  u  Q  Å  V   |   æ    ≠   Ÿ  Ï   C  &  h  í  ≠  x   w  Ê   £   E   \  '  ±  :  ·  L   !  “   Ï  Z   2  ˆ   6   Ω  —  R   ¶  2   ‡  ]  T    ˘   `   q  ™   ¸   9   8   ‡   ®   •  É  ∫   <   ƒ   ç   ˝   â  —   ÷   "  ≈  È     C   ª  Ä      ¯   ü  ¬   -  {   4   à   Ü  Ä   	                                    
+                           Oncology, Gynecology, Radiology Surgery, Orthopedics, Internal Medicine Maternity, Pediatrics Ophthalmology, Cardiology Urology, ENT, General Surgery Cardiology, Orthopedics Neurology, Dermatology Cardiology, Neurology, Pediatrics Emergency Only 24/7 9:00 AM - 5:00 PM 8:00 AM - 6:00 PM Yes No    333333@      @      @ffffff@333333@ffffff@ÕÃÃÃÃÃ@333333@öôôôôô@ÕÃÃÃÃÃ@ffffff@ÕÃÃÃÃÃ@      ffffff
+@ÕÃÃÃÃÃ@333333@öôôôôô@öôôôôô	@öôôôôô@National Accreditation ISO 9001 Certified Government Certified Â  Ê  „  ‰  ·  ‚  No           ÅÑ   )Éà!2Ñ"Ö "ñ  )à
+				â"!
+
+
+
+ò2
+ã ã$38å*@4¨R é≠a'±# 	ê7$!ë$ !è5ìA; 52ï'pñ∏  ;ù4ò.@9ôD0?A0&ú¡D ùE  $û£& *    é0G!!!!üÜ """"†≈7 ####!∫ 
+$$$$@ò$9%%%%"ã¶(&&&&å:¥,''''£«0(((($∑())))%Ö2****¶≥e++++ßJ$),,,,†2  )----(Ä ....)ñ–44////*H)$0000+N"01111,>F2222≠îT3333Æ 9&4444ïI5555/ +66660ΩH77771.%%8888≤6 #9999≥E ::::†QE ;;;;¥≠A1<<<<µëS4====6– 0>>>>7√q5????8KE@@@@9AiAAAA∫–4;BBBB;&:%CCCC%8  !DDDD<5 &EEEE=%FFFFæ5`;GGGGøÅ HHHH@ê+IIII¡≥‚8JJJJ¬Øˆ< 0KKKKAHA:LLLL√"E3MMMMƒ&#INNNN≈°3M6OOOO∆≤EQPPPPGµXUQQQQHô! 1RRRRèßd9SSSSI¥05TTTT ¥—49UUUUÀŒ`YVVVVLu 1WWWWM>UXXXXØcYYYYYNµ76ZZZZO√`[[[[P∂—4\\\\—@h:]]]]R"*^^^^”9	  (____T…h ````’= #aaaaV bbbbW(I ccccÿ»DddddYêHeeeeZ:$ffff[¢20gggg\DH)hhhh™Éb)iiii]êÇ  jjjj^ö  ;kkkkﬂ—!llll‡à#mmmm·¨Y5nnnnb√38oooo8ppppcñqqqq‰¬4
+rrrre∏D ssss8"à 2ttttÊ¿0:uuuuÁ»y]vvvvËÇa:wwwwiÄôexxxxjì®iyyyyY=¥mzzzzÎ=¡q4{{{{l¿–u6||||æÇÈy8}}}}T∫Ò}~~~~mC	Ç∂¥ÜÄÄÄÄÈù'ä 1ÅÅÅÅÓà3é4ÇÇÇÇÔâAíÉÉÉÉ?Tñ5ÑÑÑÑÒöeöÖÖÖÖÚ7vûÜÜÜÜsÜ¢ ááááÙñ¶9àààà =¢™2ââââu∑πÆääääˆµ»≤ãããã˜”◊∂0ååååx-Ê∫çççç˘+æ 1éééé÷C√èèèè#Ç«1êêêê‘Ã)ÀëëëëzÇ1œííííI”ìììì{Z◊îîîî|…i€ïïïï}îyﬂ
