@@ -5,3 +5,9 @@ FROM crime c
 left join population p on c.region_id=p.region_id
 ORDER BY percentage_of_crime DESC
 FETCH FIRST 5 ROWS ONLY)
+
+select t.region,count(h.hospital_id) as count_of_hospitals,t.percentage_of_crime  
+from top_5 t
+left join  hospitals h  on h.region_id=t.region_id
+group by t.region,percentage_of_crime
+order by t.percentage_of_crime desc
