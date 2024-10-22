@@ -1,0 +1,151 @@
+HospitalID,HospitalName,HospitalType,Address,Region,Region_id,PhoneNumber,NumberOfBeds,NumberOfDepartments,Specialties,OperatingHours,EmergencyServices,Ratings,Accreditation,LastRenovationDate,Mandatory Health Insurance
+1, Merkezi Klinika ,Private," Akademik Hesen Eliyev kuc., 76",Narimanov,5,+994 12 306 90 34,129,9,"Oncology, Gynecology, Radiology",Emergency Only,Yes,3.5,National Accreditation,2021,No
+2, Nerimanov Tibb Merkezi ,Public," Molla Cume kuc., 5",Narimanov,5,+994 12 950 96 84,185,12,"Surgery, Orthopedics, Internal Medicine",24/7,Yes,3.4,ISO 9001 Certified,2022,No
+3, Baki Saglamliq Merkezi ,Private," Mehemmed Hadi kuc., 134",Khatai,2,+994 12 558 33 92,305,12,"Maternity, Pediatrics",24/7,No,3.5,Government Certified,2021,No
+4, Respublika Neyrocerrahiyye Xestexanasi ,Public," Akademik M. Topcubasov kuc., 14",Nasimi,6,+994 12 898 23 42,239,11,"Surgery, Orthopedics, Internal Medicine",9:00 AM - 5:00 PM,No,4.5,National Accreditation,2022,No
+5, Istanbul NS Klinika ,Private," Semsi Bedelbeyli kuc., 96",Nasimi,6,+994 12 145 98 60,471,19,"Ophthalmology, Cardiology",Emergency Only,Yes,3.8,Government Certified,2019,No
+6, Baki Urek Merkezi ,Private," Mireli Qasqay kuc., 100",Nasimi,6,+994 12 850 23 95,228,23,"Surgery, Orthopedics, Internal Medicine",9:00 AM - 5:00 PM,No,5,National Accreditation,2020,No
+7, Leyla Medical Center ,Private," Babek prospekti, 53",Khatai,2,+994 12 899 29 66,486,21,"Urology, ENT, General Surgery",8:00 AM - 6:00 PM,Yes,3.4,ISO 9001 Certified,2017,No
+8, Bona Dea Beynelxalq Hospital ,Private," Ataturk prospekti, 85",Narimanov,5,+994 12 637 12 85,379,24,"Oncology, Gynecology, Radiology",24/7,No,4.6,Government Certified,2017,No
+9, MedEra Hospital ,Private," Xetai prospekti, 38",Khatai,2,+994 12 640 54 68,344,25,"Ophthalmology, Cardiology",9:00 AM - 5:00 PM,Yes,4.2,Government Certified,2018,No
+10, Modern Hospital ,Private," Semed Vurgun kuc., 99",Nasimi,6,+994 12 569 17 30,358,6,"Cardiology, Orthopedics",Emergency Only,Yes,3.5,Government Certified,2017,No
+11, Yeni Klinika ,Public," Zerife Eliyeva kuc., 65",Sabail,10,+994 12 765 34 27,228,24,"Oncology, Gynecology, Radiology",9:00 AM - 5:00 PM,Yes,4.8,Government Certified,2017,No
+12, Ege Hospital ,Private," Ceyhun Hacibeyli kuc., 117",Nasimi,6,+994 12 303 77 80,347,11,"Neurology, Dermatology",Emergency Only,Yes,3.4,Government Certified,2020,No
+13, Azerbaijan Medical University Clinic ,Public," Bakixanov kuc., 23",Sabail,10,+994 12 321 75 62,139,5,"Surgery, Orthopedics, Internal Medicine",Emergency Only,No,4.6,Government Certified,2018,No
+14, Respublika Diaqnostika Merkezi ,Public," Mikayil Musfiq kuc., 46",Yasamal,12,+994 12 708 48 73,318,18,"Cardiology, Orthopedics",Emergency Only,No,4.9,ISO 9001 Certified,2020,No
+15, Zeferan Hospital ,Private," Bakixanov qesebesi, Naxcivani kuc., 57",Sabunchu,9,+994 12 814 15 65,311,14,"Oncology, Gynecology, Radiology",Emergency Only,Yes,4.8,National Accreditation,2020,No
+16, Avrasiya Hospital ,Private," Enver Qasimzade kuc., 60",Binagadi,1,+994 12 497 45 61,84,14,"Ophthalmology, Cardiology",8:00 AM - 6:00 PM,No,4.5,ISO 9001 Certified,2018,No
+17, Avrasiya Klinika ,Private," Merdanov Qardaslari kuc., 78",Nasimi,6,+994 12 330 89 80,469,10,"Maternity, Pediatrics",24/7,Yes,4.2,Government Certified,2021,No
+18, Kaspian Hospital ,Private," Nesib bey Yusifbeyli kuc., 25",Nasimi,6,+994 12 990 48 33,83,7,"Cardiology, Neurology, Pediatrics",24/7,No,3.9,National Accreditation,2020,No
+19, Baku Medical Plaza ,Private," Ismayil Qutqasinli kuc., 45",Nasimi,6,+994 12 958 62 79,107,5,"Surgery, Orthopedics, Internal Medicine",24/7,No,4.4,National Accreditation,2017,No
+20, Xetai Tibb Merkezi ,Public," Babek prospekti, 12",Khatai,2,+994 12 396 41 40,346,19,"Neurology, Dermatology",24/7,No,3.7,ISO 9001 Certified,2018,No
+21, Respublika Usaq Klinik Xestexanasi ,Public," Tbilisi prospekti, 26",Yasamal,12,+994 12 796 83 64,91,9,"Ophthalmology, Cardiology",8:00 AM - 6:00 PM,No,3.5,Government Certified,2017,No
+22, Eliqulu Quliyev adina 5 sayli Seher Klinik Xestexanasi ,Public," Fuzuli kuc., 58",Sabail,10,+994 12 670 14 10,363,9,"Oncology, Gynecology, Radiology",9:00 AM - 5:00 PM,No,3.1,National Accreditation,2019,No
+23, MediClub Hospital ,Private," Salyan sossesi, 32",Garadagh,4,+994 12 489 83 17,309,5,"Cardiology, Neurology, Pediatrics",8:00 AM - 6:00 PM,Yes,3.4,ISO 9001 Certified,2017,No
+24, Azersigorta Hospital ,Public," Nerimanov rayonu, Tebriz kuc., 10",Narimanov,5,+994 12 276 54 34,155,15,"Surgery, Orthopedics, Internal Medicine",8:00 AM - 6:00 PM,No,3.4,Government Certified,2020,No
+25, Nefroloji Xestexana ,Public," Xocali prospekti, 48",Khatai,2,+994 12 592 69 31,456,25,"Maternity, Pediatrics",Emergency Only,No,4.1,ISO 9001 Certified,2018,No
+26, Respublika Talassemiya Merkezi ,Public," Mircelal kuc., 22",Yasamal,12,+994 12 458 21 60,343,14,"Cardiology, Orthopedics",24/7,No,5,Government Certified,2019,No
+27, Azerbaycan Onkoloji Merkezi ,Public," Elcin Eliyev kuc., 3",Yasamal,12,+994 12 692 26 66,300,25,"Ophthalmology, Cardiology",Emergency Only,No,3.9,National Accreditation,2017,No
+28, Qarayev adina Usaq Xestexanasi ,Public," Hesen bey Zerdabi kuc., 57",Yasamal,12,+994 12 361 31 20,149,8,"Neurology, Dermatology",24/7,Yes,3.5,ISO 9001 Certified,2019,No
+29, Azerbaycan Travmatologiya ve Ortopediya Merkezi ,Public," Ayna Sultanova kuc., 19",Nasimi,6,+994 12 267 66 30,454,10,"Oncology, Gynecology, Radiology",24/7,Yes,3.6,National Accreditation,2022,No
+30, Respublika Cerrahiyye Merkezi ,Public," Tbilisi prospekti, 16",Yasamal,12,+994 12 510 25 66,142,22,"Ophthalmology, Cardiology",8:00 AM - 6:00 PM,Yes,3.7,National Accreditation,2021,No
+31, Baku Medical Center ,Private," Ataturk prospekti, 83",Narimanov,5,+994 12 164 32 17,180,20,"Ophthalmology, Cardiology",Emergency Only,No,5,ISO 9001 Certified,2022,No
+32, Oksigen Klinikasi ,Private," Semsi Rehimov kuc., 17",Nasimi,6,+994 12 983 71 18,241,6,"Cardiology, Neurology, Pediatrics",9:00 AM - 5:00 PM,No,3,Government Certified,2021,No
+33, Funda Hospital ,Private," Huseyn Cavid prospekti, 49",Yasamal,12,+994 12 748 90 99,84,10,"Surgery, Orthopedics, Internal Medicine",24/7,Yes,4,ISO 9001 Certified,2019,No
+34, Xezer Rayon Merkezi Xestexanasi ,Public," Merdekan qesebesi, 12",Khazar,3,+994 12 960 68 77,292,24,"Cardiology, Neurology, Pediatrics",Emergency Only,Yes,3.6,Government Certified,2018,No
+35, Tusi Hospital ,Private," Murtuza Muxtarov kuc., 80",Sabail,10,+994 12 740 67 78,457,20,"Ophthalmology, Cardiology",Emergency Only,Yes,3.3,Government Certified,2021,No
+36, Baku International Hospital ,Private," 28 May kuc., 15",Nasimi,6,+994 12 194 19 42,59,15,"Urology, ENT, General Surgery",9:00 AM - 5:00 PM,Yes,3.4,Government Certified,2017,No
+37, Gence Beynelxalq Xestexanasi ,Public," Gence seheri, Ataturk prospekti, 9",Ganja,28,+994 12 864 41 69,363,22,"Oncology, Gynecology, Radiology",24/7,No,4.7,Government Certified,2017,No
+38, Sumqayit Seher Merkezi Xestexanasi ,Public," Sumqayit seheri, 10",Sumgayit,21,+994 12 310 14 85,490,11,"Neurology, Dermatology",Emergency Only,Yes,3,Government Certified,2020,No
+39, Lenkeran Merkezi Xestexanasi ,Public," Lenkeran seheri, Xezer kuc., 28",Lankaran,57,+994 12 232 79 22,318,15,"Cardiology, Orthopedics",8:00 AM - 6:00 PM,Yes,3.9,National Accreditation,2018,No
+40, Seki Merkezi Xestexanasi ,Public," Seki seheri, Elvan kuc., 18",Sheki,75,+994 12 127 74 21,286,25,"Cardiology, Neurology, Pediatrics",Emergency Only,Yes,4,ISO 9001 Certified,2018,No
+41, Respublika Klinik Xestexanasi ,Public," Semed Vurgun kuc., 12",Nasimi,6,+994 12 733 46 42,280,7,"Neurology, Dermatology",8:00 AM - 6:00 PM,Yes,4.3,Government Certified,2019,No
+42, Rey Tibb Merkezi ,Private," Istiqlaliyyet kuc., 10",Sabail,10,+994 12 595 78 65,394,12,"Maternity, Pediatrics",24/7,Yes,4.8,ISO 9001 Certified,2022,No
+43, Respublika Yaniq Merkezi ,Public," Mir Celal kuc., 27",Binagadi,1,+994 12 819 55 61,463,10,"Cardiology, Neurology, Pediatrics",Emergency Only,Yes,4.1,ISO 9001 Certified,2020,No
+44, Baku Clinic ,Private," Resid Behbudov kuc., 39",Nasimi,6,+994 12 565 86 98,68,13,"Cardiology, Orthopedics",24/7,No,3.9,Government Certified,2017,No
+45, Caspian International Hospital ,Private," Ziya Bunyadov prospekti, 1965- ci mehelle",Narimanov,5,+994 12 491 44 32,457,10,"Cardiology, Orthopedics",24/7,No,3.6,Government Certified,2021,No
+46, 1 sayli Seher Klinik Xestexanasi ,Public," Ehmed Recebli kuc., 8",Narimanov,5,+994 12 337 52 95,198,9,"Oncology, Gynecology, Radiology",8:00 AM - 6:00 PM,Yes,4.1,ISO 9001 Certified,2017,No
+47, 2 sayli Seher Klinik Xestexanasi ,Public," Nizami rayonu, Qara Qarayev prospekti, 79",Nizami,7,+994 12 528 47 35,377,21,"Urology, ENT, General Surgery",Emergency Only,No,3.4,ISO 9001 Certified,2022,No
+48, Serq Hospital ,Private," Mireli Qasqay kuc., 122",Nasimi,6,+994 12 327 64 12,374,13,"Oncology, Gynecology, Radiology",Emergency Only,No,4.4,ISO 9001 Certified,2018,No
+49, Respublika Usaq Yoluxucu Xestelikler Xestexanasi ,Public," Fuzuli kuc., 62",Nasimi,6,+994 12 849 67 75,162,16,"Urology, ENT, General Surgery",Emergency Only,No,3.8,National Accreditation,2019,No
+50, Respublika Perinatal Merkezi ,Public," Yeni Yasamal, 3- cu qesebe, Qasimbeyov kuc.",Yasamal,12,+994 12 610 42 79,279,8,"Urology, ENT, General Surgery",24/7,Yes,3.6,ISO 9001 Certified,2019,No
+51, Respublika Klinik Tibbi Reabilitasiya Merkezi ,Public," Sabuncu rayonu, Bakixanov qesebesi",Sabunchu,9,+994 12 133 43 63,498,21,"Surgery, Orthopedics, Internal Medicine",24/7,Yes,3.7,Government Certified,2018,No
+52, Cinara Tibb Merkezi ,Private," Badamdar qesebesi, 2- ci massiv, ev 35",Sabail,10,+994 12 184 27 18,197,13,"Cardiology, Orthopedics",9:00 AM - 5:00 PM,No,3.2,ISO 9001 Certified,2020,No
+53, Medi Lux Klinika ,Private," Insaatcilar prospekti, 18",Yasamal,12,+994 12 605 93 79,309,19,"Surgery, Orthopedics, Internal Medicine",8:00 AM - 6:00 PM,Yes,4.4,ISO 9001 Certified,2022,No
+54, International Medical Center ,Private," Ceyhun Hacibeyli kuc., 85",Nasimi,6,+994 12 840 91 86,380,11,"Neurology, Dermatology",8:00 AM - 6:00 PM,No,4.7,Government Certified,2018,No
+55, EMC Hospital ,Private," Insaatcilar prospekti, 22",Yasamal,12,+994 12 677 92 81,373,8,"Maternity, Pediatrics",Emergency Only,Yes,4.3,Government Certified,2022,No
+56, Turk - Amerikan Tibb Merkezi ,Private," Cefer Cabbarli kuc., 26",Nasimi,6,+994 12 646 82 63,337,14,"Urology, ENT, General Surgery",24/7,No,3.1,ISO 9001 Certified,2018,No
+57, Saglam Aile Tibb Merkezi ,Private," Nerimanov rayonu, Hesen Eliyev kuc., 4",Narimanov,5,+994 12 962 76 97,385,7,"Cardiology, Orthopedics",8:00 AM - 6:00 PM,No,3.1,National Accreditation,2019,No
+58, Inci Hospital ,Private," Nesimi rayonu, Mireli Qasqay kuc., 55",Nasimi,6,+994 12 278 96 94,86,20,"Ophthalmology, Cardiology",8:00 AM - 6:00 PM,Yes,5,Government Certified,2017,No
+59, City Hospital ,Private," Tbilisi prospekti, 147",Yasamal,12,+994 12 343 50 83,457,17,"Ophthalmology, Cardiology",9:00 AM - 5:00 PM,Yes,3.1,ISO 9001 Certified,2021,No
+60, Respublika Kardiologiya Merkezi ,Public," Mikayil Musfiq kuc., 38",Yasamal,12,+994 12 591 71 75,124,14,"Ophthalmology, Cardiology",24/7,No,4.5,National Accreditation,2018,No
+61, Respublika Psixiatriya Xestexanasi ,Public, Mastaga qesebesi,Sabunchu,9,+994 12 141 62 11,446,23,"Ophthalmology, Cardiology",Emergency Only,No,4.2,ISO 9001 Certified,2020,No
+62, Respublika Endokrinologiya Merkezi ,Public," Elekber Quliyev kuc., 33",Narimanov,5,+994 12 232 50 27,272,17,"Oncology, Gynecology, Radiology",Emergency Only,No,4.2,National Accreditation,2019,No
+63, Baki Tecili Tibbi Yardim Stansiyasi ,Public," Salyan sossesi, 6",Garadagh,4,+994 12 428 76 77,173,22,"Neurology, Dermatology",24/7,No,4.5,ISO 9001 Certified,2017,No
+64, 8 sayli Usaq Klinik Xestexanasi ,Public," Yasamal rayonu, A. Qasimzade kuc.",Yasamal,12,+994 12 986 39 24,473,13,"Neurology, Dermatology",8:00 AM - 6:00 PM,Yes,3.1,National Accreditation,2020,No
+65, Dogum Evi ,Public," Serq bazari, Bineqedi rayonu",Binagadi,1,+994 12 776 44 31,236,22,"Maternity, Pediatrics",8:00 AM - 6:00 PM,Yes,4.4,ISO 9001 Certified,2018,No
+66, 3 sayli Seher Klinik Xestexanasi ,Public," Qara Qarayev prospekti, 85",Nizami,7,+994 12 934 64 67,323,11,"Cardiology, Neurology, Pediatrics",8:00 AM - 6:00 PM,No,5,Government Certified,2017,No
+67, Yeni Heyat Hospital ,Private," Zerife Eliyeva kuc., 19",Sabail,10,+994 12 533 77 42,294,5,"Urology, ENT, General Surgery",24/7,No,4.9,ISO 9001 Certified,2020,No
+68, Atesgah Klinika ,Private," Ziya Bunyadov prospekti, 5",Narimanov,5,+994 12 804 92 89,394,15,"Oncology, Gynecology, Radiology",24/7,No,5,National Accreditation,2020,No
+69, AzerMed Hospital ,Private," Ehmed Recebli kuc., 10",Narimanov,5,+994 12 298 99 82,360,7,"Maternity, Pediatrics",9:00 AM - 5:00 PM,No,3.6,ISO 9001 Certified,2022,No
+70, Xetai Tecili Yardim Xestexanasi ,Public," Xetai rayonu, Mehemmed Hadi kuc.",Khatai,2,+994 12 659 20 15,402,5,"Maternity, Pediatrics",Emergency Only,Yes,4.7,Government Certified,2017,No
+71, Respublika Agciyer Xestelikleri Xestexanasi ,Public," Bineqedi qesebesi, 4 - cu mkr",Binagadi,1,+994 12 399 93 64,429,7,"Ophthalmology, Cardiology",8:00 AM - 6:00 PM,No,5,Government Certified,2017,No
+72, Respublika Qan Banki ,Public," Nerimanov rayonu, Tebriz kuc., 26",Narimanov,5,+994 12 895 91 44,120,9,"Ophthalmology, Cardiology",9:00 AM - 5:00 PM,Yes,4.2,National Accreditation,2019,No
+73, Avrasiya Hospital 2 ,Private," Babek prospekti, 60",Khatai,2,+994 12 884 47 33,375,23,"Oncology, Gynecology, Radiology",8:00 AM - 6:00 PM,No,3.7,Government Certified,2017,No
+74, Fuzuli Rayon Merkezi Xestexanasi ,Public," Fuzuli seheri, 12- ci kuce",Fuzuli,39,+994 12 731 51 67,230,10,"Cardiology, Neurology, Pediatrics",Emergency Only,Yes,4.8,Government Certified,2019,No
+75, Qebele Merkezi Rayon Xestexanasi ,Public," Qebele seheri, Heyder Eliyev prospekti, 39",Gabala,73,+994 12 964 65 14,163,14,"Cardiology, Neurology, Pediatrics",Emergency Only,No,3,National Accreditation,2021,No
+76, Goygol Rayon Merkezi Xestexanasi ,Public," Goygol seheri, 12",Goygol,32,+994 12 557 98 17,230,13,"Oncology, Gynecology, Radiology",9:00 AM - 5:00 PM,No,3.6,Government Certified,2019,No
+77, Mingecevir Merkezi Xestexanasi ,Public," Mingecevir seheri, Naxcivan kuc.",Mingachevir,60,+994 12 745 76 95,69,6,"Cardiology, Orthopedics",8:00 AM - 6:00 PM,No,4.6,National Accreditation,2019,No
+78, Quba Rayon Merkezi Xestexanasi ,Public," Quba seheri, Heyder Eliyev prospekti",Guba,50,+994 12 771 94 51,348,5,"Cardiology, Orthopedics",9:00 AM - 5:00 PM,Yes,4.6,ISO 9001 Certified,2020,No
+79, Zaqatala Rayon Merkezi Xestexanasi ,Public," Zaqatala seheri, Nizami kuc.",Zagatala,76,+994 12 151 85 73,295,6,"Ophthalmology, Cardiology",9:00 AM - 5:00 PM,No,4.2,ISO 9001 Certified,2018,No
+80, Balaken Rayon Merkezi Xestexanasi ,Public," Balaken seheri, 5- ci kuce",Balakan,71,+994 12 238 59 26,433,10,"Cardiology, Orthopedics",24/7,Yes,4.1,National Accreditation,2017,No
+81, Astara Rayon Merkezi Xestexanasi ,Public," Astara seheri, Nesimi kuc., 23",Astara,54,+994 12 165 86 93,314,7,"Maternity, Pediatrics",Emergency Only,Yes,4.3,National Accreditation,2020,No
+82, 4 sayli Seher Klinik Xestexanasi ,Public," Nesimi rayonu, Semed Vurgun kuc., 187",Nasimi,6,+994 12 606 22 74,481,24,"Maternity, Pediatrics",24/7,No,4.5,National Accreditation,2021,No
+83, Ebdurrehim bey Haqverdiyev adina 6 sayli Seher Klinik Xestexanasi ,Public," Cavadxan kuc., 2",Binagadi,1,+994 12 206 71 61,469,5,"Cardiology, Neurology, Pediatrics",24/7,No,3.7,Government Certified,2020,No
+84, 7 sayli Usaq Klinik Xestexanasi ,Public," Neftciler prospekti, 93",Sabail,10,+994 12 137 27 74,76,7,"Oncology, Gynecology, Radiology",24/7,No,3.4,ISO 9001 Certified,2022,No
+85, Respublika Xususi Xestelikler Xestexanasi ,Public," Nizami rayonu, Heyder Eliyev prospekti, 109",Nizami,7,+994 12 565 17 18,289,7,"Surgery, Orthopedics, Internal Medicine",24/7,No,4.5,Government Certified,2018,No
+86, Respublika Narkoloji Merkezi ,Public," Suraxani rayonu, M. Ezizbeyov kuc., 1",Surakhani,11,+994 12 465 30 23,210,16,"Cardiology, Orthopedics",Emergency Only,Yes,3.4,Government Certified,2017,No
+87, Qaradag Rayon Merkezi Xestexanasi ,Public," Lokbatan qesebesi, Qardasliq kuc., 25",Garadagh,4,+994 12 996 13 19,492,25,"Neurology, Dermatology",24/7,No,3.1,National Accreditation,2021,No
+88, Sabuncu Tibb Merkezi ,Public," Sabuncu qesebesi, M. Hesenov kuc., 19",Sabunchu,9,+994 12 186 51 82,90,8,"Urology, ENT, General Surgery",24/7,Yes,3.1,Government Certified,2022,No
+89, Suraxani Rayon Merkezi Xestexanasi ,Public," Suraxani qesebesi, Eli Memmedov kuc., 22",Surakhani,11,+994 12 629 98 19,380,21,"Ophthalmology, Cardiology",24/7,Yes,4.6,National Accreditation,2017,No
+90, Sebail Rayon Merkezi Xestexanasi ,Public," Badamdar qesebesi, 3- cu yasayis massivi",Sabail,10,+994 12 938 46 95,306,7,"Maternity, Pediatrics",9:00 AM - 5:00 PM,No,3.3,ISO 9001 Certified,2017,No
+91, Bineqedi Rayon Merkezi Xestexanasi ,Public," Bineqedi qesebesi, Bileceri sossesi, 8",Binagadi,1,+994 12 158 34 15,246,22,"Neurology, Dermatology",24/7,Yes,3.4,Government Certified,2017,No
+92, Nizami Rayon Merkezi Xestexanasi ,Public," Nizami rayonu, Qara Qarayev prospekti, 90",Nizami,7,+994 12 269 93 54,54,7,"Urology, ENT, General Surgery",9:00 AM - 5:00 PM,Yes,4.5,National Accreditation,2020,No
+93, 5 sayli Usaq Klinik Xestexanasi ,Public," Bineqedi rayonu, Ziya Bunyadov prospekti, 33",Binagadi,1,+994 12 722 17 22,445,22,"Surgery, Orthopedics, Internal Medicine",9:00 AM - 5:00 PM,No,4.7,Government Certified,2017,No
+94, Medicina Hospital ,Private," Semed Vurgun kuc., 34",Nasimi,6,+994 12 748 43 18,465,6,"Urology, ENT, General Surgery",Emergency Only,Yes,4.9,ISO 9001 Certified,2019,No
+95, Baku Oxford Medical Hospital ,Private," Ataturk prospekti, 56",Narimanov,5,+994 12 398 25 74,82,15,"Ophthalmology, Cardiology",Emergency Only,No,4.4,Government Certified,2021,No
+96, AzerKardio Tibb Merkezi ,Private," Azadliq prospekti, 105",Binagadi,1,+994 12 462 89 93,422,13,"Maternity, Pediatrics",Emergency Only,Yes,4.3,National Accreditation,2018,No
+97, AzerSuqra Tibb Merkezi ,Private," Dernegul qesebesi, Nizami Nerimanov kuc., 7",Narimanov,5,+994 12 618 46 47,50,8,"Ophthalmology, Cardiology",8:00 AM - 6:00 PM,No,3.5,National Accreditation,2018,No
+98, Nobel Tibb Merkezi ,Private," Nobel prospekti, 158",Khatai,2,+994 12 325 91 53,480,9,"Urology, ENT, General Surgery",Emergency Only,No,4.7,National Accreditation,2019,No
+99, Qara Qarayev adina 2 sayli Usaq Xestexanasi ,Public," Yasamal rayonu, Abbas Sehhet kuc., 4",Yasamal,12,+994 12 260 95 26,349,18,"Oncology, Gynecology, Radiology",24/7,Yes,4.4,National Accreditation,2021,No
+100, Respublika Cerrahi Transplantologiya Merkezi ,Public," Tbilisi prospekti, 123",Yasamal,12,+994 12 887 63 88,340,13,"Surgery, Orthopedics, Internal Medicine",8:00 AM - 6:00 PM,Yes,3.7,Government Certified,2017,No
+101, Hesen Eliyev adina Klinik Xestexana ,Public," Tbilisi prospekti, 95",Yasamal,12,+994 12 444 77 43,267,23,"Oncology, Gynecology, Radiology",9:00 AM - 5:00 PM,Yes,4.3,National Accreditation,2022,No
+102, Sems Tibb Merkezi ,Private," Azadliq prospekti, 92",Nasimi,6,+994 12 541 53 37,249,15,"Urology, ENT, General Surgery",8:00 AM - 6:00 PM,Yes,3.9,National Accreditation,2020,No
+103, Azerbaycan Dovlet Demiryolu Xestexanasi ,Public," Eziz Eliyev kuc., 3",Sabail,10,+994 12 752 54 15,96,6,"Urology, ENT, General Surgery",Emergency Only,No,4.8,National Accreditation,2017,No
+104, Baku Children’s Hospital ,Private," Tbilisi prospekti, 111",Yasamal,12,+994 12 418 26 76,369,20,"Oncology, Gynecology, Radiology",24/7,No,4.7,Government Certified,2022,No
+105, Avrasiya Hospital 3 ,Private," Bineqedi rayonu, Ataturk prospekti, 25",Binagadi,1,+994 12 692 43 90,374,9,"Cardiology, Neurology, Pediatrics",24/7,No,4.8,Government Certified,2022,No
+106, Respublika Agciyer Xestelikleri Merkezi ,Public," Buzovna qesebesi, Simal kuc., 30",Khazar,3,+994 12 181 71 89,170,23,"Oncology, Gynecology, Radiology",9:00 AM - 5:00 PM,Yes,4.8,ISO 9001 Certified,2021,No
+107, Respublika Hematologiya ve Transfuziologiya Merkezi ,Public," Ziya Bunyadov prospekti, 12",Narimanov,5,+994 12 710 93 72,252,24,"Urology, ENT, General Surgery",8:00 AM - 6:00 PM,No,4.1,Government Certified,2021,No
+108, Baki Diabet Merkezi ,Public," Fuzuli kuc., 30",Nasimi,6,+994 12 315 83 55,57,17,"Ophthalmology, Cardiology",8:00 AM - 6:00 PM,Yes,4.5,National Accreditation,2020,No
+109, Baki Nevrologiya Xestexanasi ,Public," Azadliq prospekti, 115",Nasimi,6,+994 12 169 24 95,56,11,"Surgery, Orthopedics, Internal Medicine",Emergency Only,Yes,4.2,Government Certified,2022,No
+110, Baki Usaq Diabet Merkezi ,Public," Bakixanov qesebesi, Heyder Eliyev prospekti, 19",Sabunchu,9,+994 12 837 72 76,224,14,"Surgery, Orthopedics, Internal Medicine",24/7,No,3.2,ISO 9001 Certified,2022,No
+111, Azerbaycan Uroloji Merkezi ,Public," Zerife Eliyeva kuc., 56",Sabail,10,+994 12 512 73 21,168,22,"Neurology, Dermatology",Emergency Only,No,4.2,Government Certified,2020,No
+112, Respublika Endoskopiya Merkezi ,Public," Babek prospekti, 70",Khatai,2,+994 12 635 16 99,346,24,"Oncology, Gynecology, Radiology",Emergency Only,No,4,Government Certified,2017,No
+113, Xezer Beynelxalq Saglamliq Merkezi ,Private," Xetai rayonu, Neftciler prospekti, 15",Khatai,2,+994 12 573 81 91,421,21,"Urology, ENT, General Surgery",Emergency Only,Yes,3.3,Government Certified,2018,No
+114, Nargis Klinikasi ,Private," 28 May kuc., 14",Sabail,10,+994 12 138 99 70,387,22,"Cardiology, Orthopedics",9:00 AM - 5:00 PM,Yes,3.7,Government Certified,2018,No
+115, Respublika Usaq Goz Xestelikleri Xestexanasi ,Public," Serifzade kuc., 112",Yasamal,12,+994 12 326 44 47,186,15,"Oncology, Gynecology, Radiology",8:00 AM - 6:00 PM,Yes,3.7,ISO 9001 Certified,2021,No
+116, Respublika Sumuk Iltihabi Xestelikleri Xestexanasi ,Public," Bilgeh qesebesi, Merkezi kuc., 2",Khazar,3,+994 12 643 60 29,473,6,"Urology, ENT, General Surgery",9:00 AM - 5:00 PM,No,4.7,National Accreditation,2020,No
+117, Seki Usaq Xestexanasi ,Public," Seki seheri, Neriman Nerimanov kuc., 25",Sheki,75,+994 12 135 11 78,60,9,"Ophthalmology, Cardiology",9:00 AM - 5:00 PM,No,5,Government Certified,2017,No
+118, Agdam Rayon Merkezi Xestexanasi ,Public," Agdam seheri, 15",Aghdam,36,+994 12 819 62 32,196,13,"Surgery, Orthopedics, Internal Medicine",8:00 AM - 6:00 PM,Yes,3.2,ISO 9001 Certified,2022,No
+119, Berde Rayon Merkezi Xestexanasi ,Public," Berde seheri, Heyder Eliyev prospekti",Barda,38,+994 12 232 80 30,141,24,"Cardiology, Neurology, Pediatrics",9:00 AM - 5:00 PM,No,3.8,Government Certified,2017,No
+120, Susa Rayon Merkezi Xestexanasi ,Public," Susa seheri, 10",Shusha,42,+994 12 910 69 66,253,9,"Oncology, Gynecology, Radiology",Emergency Only,Yes,3.2,Government Certified,2022,No
+121, Xankendi Rayon Merkezi Xestexanasi ,Public," Xankendi seheri, Nizami kuc.",Khankendi,34,+994 12 590 46 37,393,23,"Neurology, Dermatology",Emergency Only,Yes,4.3,Government Certified,2017,No
+122, Qobustan Rayon Merkezi Xestexanasi ,Public," Qobustan seheri, Emirzeynal kuc.",Gobustan,26,+994 12 144 43 10,267,8,"Maternity, Pediatrics",Emergency Only,Yes,3.9,National Accreditation,2020,No
+123, Xacmaz Rayon Merkezi Xestexanasi ,Public," Xacmaz seheri, E. Huseynov kuc.",Khachmaz,49,+994 12 206 55 93,209,8,"Ophthalmology, Cardiology",Emergency Only,No,3.5,ISO 9001 Certified,2020,No
+124, Ismayilli Rayon Merkezi Xestexanasi ,Public," Ismayilli seheri, Heyder Eliyev prospekti",Ismayilli,25,+994 12 609 59 47,214,22,"Oncology, Gynecology, Radiology",9:00 AM - 5:00 PM,No,3.4,ISO 9001 Certified,2020,No
+125, Agsu Rayon Merkezi Xestexanasi ,Public," Agsu seheri, Ziya Bunyadov kuc.",Agsu,24,+994 12 601 73 56,429,9,"Cardiology, Orthopedics",Emergency Only,No,3.2,Government Certified,2019,No
+126, Qusar Rayon Merkezi Xestexanasi ,Public," Qusar seheri, Heyder Eliyev prospekti",Gusar,51,+994 12 835 17 96,422,15,"Urology, ENT, General Surgery",9:00 AM - 5:00 PM,Yes,4.5,National Accreditation,2018,No
+127, Oguz Rayon Merkezi Xestexanasi ,Public," Oguz seheri, 5",Oghuz,74,+994 12 990 11 78,290,22,"Neurology, Dermatology",8:00 AM - 6:00 PM,Yes,4.4,Government Certified,2020,No
+128, Yevlax Rayon Merkezi Xestexanasi ,Public," Yevlax seheri, Hezi Aslanov kuc.",Yevlakh,65,+994 12 287 11 33,272,7,"Surgery, Orthopedics, Internal Medicine",9:00 AM - 5:00 PM,Yes,4.2,National Accreditation,2018,No
+129, Qax Rayon Merkezi Xestexanasi ,Public," Qax seheri, Heyder Eliyev prospekti",Gakh,72,+994 12 411 17 38,253,25,"Ophthalmology, Cardiology",24/7,No,3.3,National Accreditation,2021,No
+130, Cebrayil Rayon Merkezi Xestexanasi ,Public," Cebrayil seheri, Merkezi kuce",Jabrayil,77,+994 12 405 67 99,453,11,"Surgery, Orthopedics, Internal Medicine",Emergency Only,No,4.2,ISO 9001 Certified,2018,No
+131, Gedebey Rayon Merkezi Xestexanasi ,Public," Gedebey seheri, Merkezi kuce",Gadabay,45,+994 12 388 19 90,233,11,"Ophthalmology, Cardiology",24/7,Yes,4.5,ISO 9001 Certified,2022,No
+132, Kurdemir Rayon Merkezi Xestexanasi ,Public," Kurdemir seheri, Heyder Eliyev kuc.",Kurdamir,63,+994 12 812 58 65,278,8,"Cardiology, Neurology, Pediatrics",24/7,No,3.9,ISO 9001 Certified,2018,No
+133, Haciqabul Rayon Merkezi Xestexanasi ,Public," Haciqabul seheri, Qurtulus kuc.",Hajigabul,84,+994 12 128 26 61,67,24,"Cardiology, Orthopedics",24/7,Yes,4.1,Government Certified,2022,No
+134, Sederek Tibb Merkezi ,Public," Sederek qesebesi, Merkezi kuce",Sadarak,18,+994 12 512 66 71,443,7,"Cardiology, Neurology, Pediatrics",8:00 AM - 6:00 PM,Yes,3.6,ISO 9001 Certified,2019,No
+135, Ordubad Rayon Merkezi Xestexanasi ,Public," Ordubad seheri, Heyder Eliyev kuc.",Ordubad,17,+994 12 281 86 95,384,23,"Neurology, Dermatology",8:00 AM - 6:00 PM,Yes,3.6,National Accreditation,2021,No
+136, Kengerli Rayon Merkezi Xestexanasi ,Public," Kengerli qesebesi, 12",Kangarli,16,+994 12 715 50 70,202,24,"Cardiology, Neurology, Pediatrics",24/7,No,3.6,Government Certified,2022,No
+137, Naxcivan Merkezi Rayon Xestexanasi ,Public," Naxcivan seheri, Heyder Eliyev prospekti",Nakhchivan,13,+994 12 404 38 58,129,8,"Maternity, Pediatrics",9:00 AM - 5:00 PM,No,3.8,National Accreditation,2022,No
+138, Sahbuz Rayon Merkezi Xestexanasi ,Public," Sahbuz seheri, Merkezi kuce",Shahbuz,19,+994 12 171 20 92,248,7,"Neurology, Dermatology",8:00 AM - 6:00 PM,Yes,3.2,National Accreditation,2018,No
+139, Babek Rayon Merkezi Xestexanasi ,Public," Babek qesebesi, Heyder Eliyev kuc.",Babek,14,+994 12 474 79 96,415,7,"Ophthalmology, Cardiology",Emergency Only,Yes,4.3,National Accreditation,2020,No
+140, Neftcala Rayon Merkezi Xestexanasi ,Public," Neftcala seheri, Merkezi kuce",Neftchala,85,+994 12 784 10 62,194,17,"Cardiology, Neurology, Pediatrics",Emergency Only,No,3.3,National Accreditation,2019,No
+141, Salyan Rayon Merkezi Xestexanasi ,Public," Salyan seheri, Heyder Eliyev prospekti",Salyan,86,+994 12 509 85 47,301,14,"Maternity, Pediatrics",9:00 AM - 5:00 PM,Yes,3.6,Government Certified,2020,No
+142, Celilabad Rayon Merkezi Xestexanasi ,Public," Celilabad seheri, Nizami kuc.",Jalilabad,55,+994 12 778 24 42,123,18,"Cardiology, Neurology, Pediatrics",24/7,No,5,National Accreditation,2021,No
+143, Masalli Rayon Merkezi Xestexanasi ,Public," Masalli seheri, Heyder Eliyev kuc.",Masalli,58,+994 12 742 15 51,480,22,"Cardiology, Neurology, Pediatrics",8:00 AM - 6:00 PM,Yes,4,ISO 9001 Certified,2020,No
+144, Bilesuvar Rayon Merkezi Xestexanasi ,Public," Bilesuvar seheri, Merkezi kuce",Bilasuvar,83,+994 12 436 70 22,286,9,"Urology, ENT, General Surgery",24/7,No,4.8,National Accreditation,2022,No
+145, Yardimli Rayon Merkezi Xestexanasi ,Public," Yardimli seheri, Merkezi kuce",Yardimli,59,+994 12 786 46 30,422,16,"Surgery, Orthopedics, Internal Medicine",9:00 AM - 5:00 PM,Yes,3.2,Government Certified,2019,No
+146, Lerik Rayon Merkezi Xestexanasi ,Public," Lerik seheri, Heyder Eliyev prospekti",Lerik,56,+994 12 765 68 85,52,9,"Urology, ENT, General Surgery",9:00 AM - 5:00 PM,Yes,4.5,National Accreditation,2022,No
+147, Zerdab Rayon Merkezi Xestexanasi ,Public," Zerdab seheri, Merkezi kuce",Zardab,66,+994 12 175 85 18,142,12,"Oncology, Gynecology, Radiology",8:00 AM - 6:00 PM,Yes,4.4,National Accreditation,2019,No
+148, Sabirabad Rayon Merkezi Xestexanasi ,Public," Sabirabad seheri, Semed Vurgun kuc.",Sabirabad,70,+994 12 109 23 68,136,21,"Neurology, Dermatology",Emergency Only,Yes,4.9,Government Certified,2019,No
+149, Saatli Rayon Merkezi Xestexanasi ,Public," Saatli seheri, Heyder Eliyev kuc.",Saatli,69,+994 12 348 55 10,390,13,"Maternity, Pediatrics",9:00 AM - 5:00 PM,Yes,3.2,National Accreditation,2020,No
+150, Semkir Rayon Merkezi Xestexanasi ,Public," Semkir seheri, Merkezi kuce",Shamkir,47,+994 12 546 69 82,128,21,"Oncology, Gynecology, Radiology",Emergency Only,Yes,3.2,ISO 9001 Certified,2018,No
